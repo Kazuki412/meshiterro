@@ -1,24 +1,12 @@
-# README
+# 基礎学習フェーズ「アプリケーションを完成させよう２」
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 学習内容
+- 基本的なCRUD機能
+- ログイン機能
+- マイページ機能
+- 画像投稿機能
+- コメント機能
+- 入力項目バリデーション機能
+- ライブラリによる機能の実装(devise,ActiveStorage,kaminari)
+- 部分テンプレートによるコードの効率化
+- Bootstrapによるレイアウト調整
